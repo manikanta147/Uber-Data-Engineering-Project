@@ -22,7 +22,7 @@ Imported Uber trip raw data into databricks DBFS for preprocessing.
 
 Cleaned and normalized raw data.
 
-Created dimensional tables (e.g. datetime_dim, rate_code_dim,payment_type_dim,payment_type_dim,pickup_location_dim,dropoff_location_dim).
+Created Multiple dimension tables (e.g. datetime_dim, rate_code_dim,payment_type_dim,payment_type_dim,pickup_location_dim,dropoff_location_dim).
 
 Built a fact_table for analytics. (e.g. fact_table)
 
